@@ -1,3 +1,12 @@
+const express = require("express");
+const app = express();
+
+app.listen(() => console.log("start professor"));
+
+app.use('/ping', (req, res) => {
+  res.send(new Date());
+});
+
 const { Client } = require('discord.ts-selfbot');
 const client = new Client();
 const { token , prefix , developers} = require('./src/token');
