@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 
-app.listen(() => console.log("start professor"));
+app.listen(() => console.log("Created By Professor"));
 
 app.use('/ping', (req, res) => {
   res.send(new Date());
