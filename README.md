@@ -4,6 +4,7 @@
 # install this package
 ```
 npm i discord.ts-selfbot
+npm i express
 ```
 
 ## Info
