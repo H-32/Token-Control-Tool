@@ -1,4 +1,4 @@
-### Welcome to the project <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"></a>
+### Welcome to the project <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="20px"></a>
 
 # Token control tool
 # install this package
