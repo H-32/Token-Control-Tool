@@ -25,7 +25,7 @@ ${prefix}SetS | You can edit the status
 ${prefix}join | just join the room and type the command to join the token in the same room
 ${prefix}leave | just leave the room and type the command to leave the token from room
 
-and you can add the id server and room go to index and Follow the written instructions on the line 22 && 23
+and you can add the id server and room go to index and Follow the written instructions on the line 16 && 17
 ```
 
 ## © Professor
